@@ -9,8 +9,8 @@ class tictac
     
     public:
         
-        void read()
-        {
+        void read() {
+            
             cout<<"\n\n\n\t\t\tTIC TAC TOE\n";
             cout<<"\t\t\n";
             cout<<"\t\t";
